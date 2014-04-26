@@ -1,0 +1,352 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"bankObj"
+			],
+			[
+				"tim",
+				"times"
+			],
+			[
+				"gre",
+				"greeting"
+			],
+			[
+				"S",
+				"Student"
+			],
+			[
+				"Fiz",
+				"Fizzbuzz"
+			],
+			[
+				"if",
+				"ife	if … else … end"
+			],
+			[
+				"fi",
+				"fizzbuzz"
+			],
+			[
+				"sm",
+				"sampleFile"
+			],
+			[
+				"File",
+				"File	File.read(\"..\")"
+			],
+			[
+				"eac",
+				"eac-	each_cons(..) { |group| .. }"
+			],
+			[
+				"arra",
+				"array1"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"pa",
+				"partiton"
+			],
+			[
+				"pi",
+				"pIndex"
+			],
+			[
+				"p",
+				"pIndex"
+			],
+			[
+				"en",
+				"eIndex"
+			],
+			[
+				"mo",
+				"moduleB_method"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"pu",
+				"public_protected"
+			],
+			[
+				"poi",
+				"point2"
+			],
+			[
+				"Po",
+				"PointSubClass"
+			],
+			[
+				"pr",
+				"protected_method"
+			],
+			[
+				"up",
+				"updatePublic"
+			],
+			[
+				"chil",
+				"child_method"
+			],
+			[
+				"ch",
+				"class_method"
+			],
+			[
+				"ini",
+				"initialize"
+			],
+			[
+				"Poi",
+				"point1"
+			],
+			[
+				"clas",
+				"ClassTest1"
+			],
+			[
+				"cl",
+				"class_method"
+			],
+			[
+				"si",
+				"simpleClassObject2"
+			],
+			[
+				"sim",
+				"simpleClassObject2"
+			],
+			[
+				"Sim",
+				"simpleClassObject1"
+			],
+			[
+				"class",
+				"class_variable"
+			],
+			[
+				"Ca",
+				"ClassTest1"
+			],
+			[
+				"y",
+				"yield"
+			],
+			[
+				"yi",
+				"yieldSample"
+			],
+			[
+				"di",
+				"divisible"
+			],
+			[
+				"charc",
+				"characters"
+			],
+			[
+				"ar",
+				"array1"
+			],
+			[
+				"ele",
+				"Elements"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"mi",
+				"Min"
+			],
+			[
+				"m",
+				"max	max { |a, b| .. }"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/aspire9/Desktop/HashWithExamples.rb",
+		"/home/aspire9/Desktop/SqliteExample.rb",
+		"/home/aspire9/Desktop/MutexExamples.rb",
+		"/home/aspire9/Desktop/FizzBuzz.rb",
+		"/home/aspire9/Desktop/IOExample.rb",
+		"/home/aspire9/Desktop/RubyGemsSample.rb",
+		"/home/aspire9/Desktop/ExceptionWithExamples.rb",
+		"/home/aspire9/Desktop/ModulesExamples.rb",
+		"/home/aspire9/Desktop/FileIoExamples.rb",
+		"/home/aspire9/Desktop/ArrayWithExamples.rb",
+		"/home/aspire9/Desktop/QuickSort.rb",
+		"/home/aspire9/Desktop/ClassExamples.rb",
+		"/home/aspire9/Desktop/LoopsWithExamples.rb",
+		"/home/aspire9/Desktop/ThreadsExamples.rb",
+		"/home/aspire9/Desktop/abxyz#<Thread",
+		"/home/aspire9/Desktop/abc#<Thread",
+		"/home/aspire9/.rvm/gems/ruby-2.1.1@rails-4.0.0/bin/rails",
+		"/home/aspire9/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/aspire9/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/aspire9/Desktop/FunctionsWtihExamples.rb",
+		"/home/aspire9/Desktop/StringWithExamples.rb",
+		"/home/aspire9/Desktop/ruby1.rb",
+		"/home/aspire9/Desktop/test-12.cpp",
+		"/home/aspire9/Desktop/Test.java"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"		\n",
+			"	\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
